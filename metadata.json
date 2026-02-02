@@ -1,0 +1,5 @@
+{
+  "name": "OmniTask AI",
+  "description": "A sophisticated task management dashboard that leverages Gemini AI to break down complex tasks, suggest priorities, and provide personalized productivity coaching.",
+  "requestFramePermissions": []
+}
